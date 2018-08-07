@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Harrison Schonfelder- Intro to IT profile
 
 You can use the [editor on GitHub](https://github.com/HarrySchon123/Project1IntroToIT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
